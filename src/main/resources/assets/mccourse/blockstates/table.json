@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mccourse:block/table" },
+    "facing=south": { "model": "mccourse:block/table", "y": 180 },
+    "facing=west": { "model": "mccourse:block/table", "y": 270 },
+    "facing=east": { "model": "mccourse:block/table", "y": 90 }
+  }
+}

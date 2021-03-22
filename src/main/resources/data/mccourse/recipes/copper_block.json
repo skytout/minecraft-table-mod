@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":{
+      "item": "mccourse:copper_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mccourse:copper_block"
+  }
+}

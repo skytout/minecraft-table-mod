@@ -1,0 +1,21 @@
+{
+  "item.mccourse.copper_ingot": "Copper Ingot",
+  "item.mccourse.copper_wire": "Copper Wire",
+  "item.mccourse.coppered_apple": "Coppered Apple",
+
+   "item.mccourse.copper_shovel": "Copper Shovel",
+
+  "item.mccourse.copper_helmet": "Copper Helmet",
+  "item.mccourse.copper_chestplate": "Copper Chestplate",
+  "item.mccourse.copper_leggings": "Copper Leggings",
+  "item.mccourse.copper_boots": "Copper Boots",
+
+  "block.mccourse.zuccini_crop": "zuccini Seeds",
+
+  "block.mccourse.copper_block": "Copper Block",
+  "block.mccourse.copper_ore": "Copper Ore",
+
+
+  "itemGroup.courseTab": "Course Tab"
+
+}

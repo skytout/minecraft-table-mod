@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mccourse:block/electrifier" },
+    "facing=south": { "model": "mccourse:block/electrifier", "y": 180 },
+    "facing=west": { "model": "mccourse:block/electrifier", "y": 270 },
+    "facing=east": { "model": "mccourse:block/electrifier", "y": 90 }
+  }
+}
